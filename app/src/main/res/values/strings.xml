@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza and Bits</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nestedScrollView_textView">This is order fragment test</string>
+</resources>
