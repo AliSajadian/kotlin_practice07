@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">Pizza and Bits</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">Bits and Pizzas</string>
     <string name="nestedScrollView_textView">This is order fragment test</string>
+    <string name="meal_img">Meal image</string>radio_radio_funghi
+    <string name="radio_button_pizza_type_diavolo">Diavolo</string>
+    <string name="radio_button_pizza_type_funghi">funghi</string>
+    <string name="choose_extras">Please choose any extras:</string>
+    <string name="exteras_parmesan">Parmesan</string>
+    <string name="exteras_chili_oil">Chili Oil</string>
+    <string name="fab_img_descrition">fab_image</string>
 </resources>
